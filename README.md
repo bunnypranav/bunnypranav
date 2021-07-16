@@ -3,7 +3,7 @@
 [![python](https://img.shields.io/badge/Python-Beginner-blue?logo=python&style=flat)](https://github.com/traliotube)
 [![html](https://img.shields.io/badge/HTML-Intermediate-blue?logo=html5&style=flat)](https://github.com/traliotube)
 [![css](https://img.shields.io/badge/CSS-Intermediate-blue?logo=css3&style=flat)](https://github.com/traliotube)
-# I am Bunny Pranav
+# I am Pranav
 ## Beginner Web dev and Python dev
 
 Hey 👋🏻,
