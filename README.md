@@ -9,7 +9,7 @@
 Hey 👋🏻,
 
 
-I am beginner web and python developer from India.
+Hello, I'm Bunny Pranav, an experienced programmer with a focus on Python and web development. With over 13 years of experience in the tech industry, I am also an AI expert and passionate about leveraging the latest advancements in AI to drive innovation and transform businesses.
 
 
 ## My Skill Set:
