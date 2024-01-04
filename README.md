@@ -40,5 +40,5 @@ Hello, I'm Bunny Pranav, an experienced programmer with a focus on Python and we
 ## 📬 Get in Touch
 
 
-- Twitter:  https://twitter.com/bunny_pranav10 [1]
-- Discord:  Bunny Pranav#8468 [2]
+- Twitter:  https://twitter.com/BunnyPranav10 [1]
+- Discord:  bunnypranav [2]
