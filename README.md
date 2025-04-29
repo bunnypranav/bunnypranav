@@ -1,16 +1,22 @@
-## Hi there 👋
+<h1 align="center"> Hello there 👋🏻 </h1>
+I'm Bunny Pranav, a passionate programmer with a special interest on Python and web development.
+I love to explore the world of technology, especially opensource.
 
-<!--
-**bunnypranav/bunnypranav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📬 Get in Touch
 
-Here are some ideas to get you started:
+- Discord:  **bunnypranav**
+- Email: **bunnypranav.github@bunnyorg.in**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## &#x1f4c8; My GitHub Stats
+
+<a href="https://github.com/bunnypranav">
+  <img height=200 align="center" src="https://githubstats.bunnyorg.in/api/top-langs/?username=bunnypranav&include_all_commits=true&layout=compact" />
+</a>
+
+<a href="https://github.com/bunnypranav">
+  <img align="center" src="https://githubstats.bunnyorg.in/api?username=bunnypranav&show_icons=true&count_private=true&hide=stars&show=reviews,prs_merged&include_all_commits=true" />
+</a>
+
+<a href="https://github.com/bunnypranav">
+  <img align="center" src="https://githubstats.bunnyorg.in/api/wakatime?username=bunnypranav&show_icons=true&layout=compact" />
+</a>
