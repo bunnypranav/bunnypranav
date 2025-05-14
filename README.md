@@ -10,13 +10,13 @@ I love to explore the world of technology, especially opensource.
 ## &#x1f4c8; My GitHub Stats
 
 <a href="https://github.com/bunnypranav">
-  <img height=200 align="center" src="https://githubstats.bunnyorg.in/api/top-langs/?username=bunnypranav&include_all_commits=true&layout=compact&" />
+  <img height=200 align="center" src="https://githubstats.bunnyorg.in/api/top-langs/?username=bunnypranav&layout=compact&include_all_commits=true" />
 </a>
 
 <a href="https://github.com/bunnypranav">
-  <img align="center" src="https://githubstats.bunnyorg.in/api?username=bunnypranav&show_icons=true&count_private=true&hide=stars&show=reviews,prs_merged&include_all_commits=true&" />
+  <img align="center" src="https://githubstats.bunnyorg.in/api?username=bunnypranav&show_icons=true&count_private=true&hide=stars&show=prs_merged,reviews&include_all_commits=true" />
 </a>
 
 <a href="https://github.com/bunnypranav">
-  <img align="center" src="https://githubstats.bunnyorg.in/api/wakatime?username=bunnypranav&show_icons=true&layout=compact&" />
+  <img align="center" src="https://githubstats.bunnyorg.in/api/wakatime?username=bunnypranav&layout=compact&show_icons=true" />
 </a>
