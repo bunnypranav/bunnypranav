@@ -1,6 +1,6 @@
 <h1 align="center"> Hello there 👋🏻 </h1>
 I'm Bunny Pranav, a passionate programmer with a special interest on Python and web development.
-I love to explore the world of technology, especially opensource.
+I love to explore the world of technology, giving my bit back through open source contributions.
 
 ## 📬 Get in Touch
 
